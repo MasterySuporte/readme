@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Oi! Meu nome é Pedro Augusto, sou técnico em informática formado pelo COTEMIG e estou cursando Ciências da Computação pela PUC MINAS</h2>
 
 ###
 
